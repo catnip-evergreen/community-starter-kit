@@ -1,10 +1,9 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is me sytematically following the code to upload a public github repository.
 
 ## What it does
-
-FEATURES PLACEHOLDER
+Teaches you to upload code on github. 
 
 ## Getting started
 
